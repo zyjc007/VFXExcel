@@ -1,0 +1,1724 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xmeml>
+<xmeml version="4">
+	<sequence id="sequence-1" TL.SQAudioVisibleBase="0" TL.SQVideoVisibleBase="0" TL.SQVisibleBaseTime="0" TL.SQAVDividerPosition="0.5" TL.SQHideShyTracks="0" TL.SQHeaderWidth="236" Monitor.ProgramZoomOut="24163272000000" Monitor.ProgramZoomIn="0" TL.SQTimePerPixel="0.2236335642802077" MZ.EditLine="24163272000000" MZ.Sequence.PreviewFrameSizeHeight="1080" MZ.Sequence.PreviewFrameSizeWidth="1920" MZ.Sequence.AudioTimeDisplayFormat="200" MZ.Sequence.PreviewRenderingClassID="1297106761" MZ.Sequence.PreviewRenderingPresetCodec="1297107278" MZ.Sequence.PreviewRenderingPresetPath="EncoderPresets/SequencePreview/cc7991f5-c236-4db1-957e-2c71f924e81c/I-Frame Only MPEG.epr" MZ.Sequence.PreviewUseMaxRenderQuality="false" MZ.Sequence.PreviewUseMaxBitDepth="false" MZ.Sequence.EditingModeGUID="cc7991f5-c236-4db1-957e-2c71f924e81c" MZ.Sequence.VideoTimeDisplayFormat="100" MZ.WorkOutPoint="24597216000000" MZ.WorkInPoint="0" explodedTracks="true">
+		<uuid>a3f184d6-fa13-4786-a210-1f3a5012ea6b</uuid>
+		<duration>2283</duration>
+		<rate>
+			<timebase>24</timebase>
+			<ntsc>FALSE</ntsc>
+		</rate>
+		<name>EP15(0000)</name>
+		<media>
+			<video>
+				<format>
+					<samplecharacteristics>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>FALSE</ntsc>
+						</rate>
+						<codec>
+							<name>Apple ProRes 422</name>
+							<appspecificdata>
+								<appname>Final Cut Pro</appname>
+								<appmanufacturer>Apple Inc.</appmanufacturer>
+								<appversion>7.0</appversion>
+								<data>
+									<qtcodec>
+										<codecname>Apple ProRes 422</codecname>
+										<codectypename>Apple ProRes 422</codectypename>
+										<codectypecode>apcn</codectypecode>
+										<codecvendorcode>appl</codecvendorcode>
+										<spatialquality>1024</spatialquality>
+										<temporalquality>0</temporalquality>
+										<keyframerate>0</keyframerate>
+										<datarate>0</datarate>
+									</qtcodec>
+								</data>
+							</appspecificdata>
+						</codec>
+						<width>1920</width>
+						<height>1080</height>
+						<anamorphic>FALSE</anamorphic>
+						<pixelaspectratio>square</pixelaspectratio>
+						<fielddominance>none</fielddominance>
+						<colordepth>24</colordepth>
+					</samplecharacteristics>
+				</format>
+				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1">
+					<clipitem id="clipitem-1">
+						<masterclipid>masterclip-1</masterclipid>
+						<name>047-001-002-A-OK.mov</name>
+						<enabled>TRUE</enabled>
+						<duration>2324</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>FALSE</ntsc>
+						</rate>
+						<start>0</start>
+						<end>247</end>
+						<in>0</in>
+						<out>247</out>
+						<pproTicksIn>0</pproTicksIn>
+						<pproTicksOut>2614248000000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-1">
+							<name>047-001-002-A-OK.mov</name>
+							<pathurl>file://localhost/Users/zhangyangjiacheng/Desktop/Test/Proxy/A051/047-001-002-A-OK.mov</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>FALSE</ntsc>
+							</rate>
+							<duration>2324</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<string>13:53:14:03</string>
+								<frame>1199859</frame>
+								<displayformat>NDF</displayformat>
+								<reel>
+									<name>A051R3CW</name>
+								</reel>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>lower</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>1</channelcount>
+									<audiochannel>
+										<sourcechannel>1</sourcechannel>
+									</audiochannel>
+								</audio>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>1</channelcount>
+									<audiochannel>
+										<sourcechannel>2</sourcechannel>
+									</audiochannel>
+								</audio>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>1</channelcount>
+									<audiochannel>
+										<sourcechannel>3</sourcechannel>
+									</audiochannel>
+								</audio>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>1</channelcount>
+									<audiochannel>
+										<sourcechannel>4</sourcechannel>
+									</audiochannel>
+								</audio>
+							</media>
+						</file>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+							<good></good>
+							<originalvideofilename></originalvideofilename>
+							<originalaudiofilename></originalaudiofilename>
+						</logginginfo>
+						<colorinfo>
+							<lut></lut>
+							<lut1></lut1>
+							<asc_sop></asc_sop>
+							<asc_sat></asc_sat>
+							<lut2></lut2>
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-2">
+						<masterclipid>masterclip-1</masterclipid>
+						<name>047-001-002-A-OK.mov</name>
+						<enabled>TRUE</enabled>
+						<duration>2324</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>FALSE</ntsc>
+						</rate>
+						<start>478</start>
+						<end>703</end>
+						<in>478</in>
+						<out>703</out>
+						<pproTicksIn>5059152000000</pproTicksIn>
+						<pproTicksOut>7440552000000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<file id="file-1"/>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+							<good></good>
+							<originalvideofilename></originalvideofilename>
+							<originalaudiofilename></originalaudiofilename>
+						</logginginfo>
+						<colorinfo>
+							<lut></lut>
+							<lut1></lut1>
+							<asc_sop></asc_sop>
+							<asc_sat></asc_sat>
+							<lut2></lut2>
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-3">
+						<masterclipid>masterclip-1</masterclipid>
+						<name>047-001-002-A-OK.mov</name>
+						<enabled>TRUE</enabled>
+						<duration>2324</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>FALSE</ntsc>
+						</rate>
+						<start>909</start>
+						<end>1161</end>
+						<in>950</in>
+						<out>1202</out>
+						<pproTicksIn>10054800000000</pproTicksIn>
+						<pproTicksOut>12721968000000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<file id="file-1"/>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+							<good></good>
+							<originalvideofilename></originalvideofilename>
+							<originalaudiofilename></originalaudiofilename>
+						</logginginfo>
+						<colorinfo>
+							<lut></lut>
+							<lut1></lut1>
+							<asc_sop></asc_sop>
+							<asc_sat></asc_sat>
+							<lut2></lut2>
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-4">
+						<masterclipid>masterclip-1</masterclipid>
+						<name>047-001-002-A-OK.mov</name>
+						<enabled>TRUE</enabled>
+						<duration>2324</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>FALSE</ntsc>
+						</rate>
+						<start>1435</start>
+						<end>1687</end>
+						<in>1476</in>
+						<out>1728</out>
+						<pproTicksIn>15621984000000</pproTicksIn>
+						<pproTicksOut>18289152000000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<file id="file-1"/>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+							<good></good>
+							<originalvideofilename></originalvideofilename>
+							<originalaudiofilename></originalaudiofilename>
+						</logginginfo>
+						<colorinfo>
+							<lut></lut>
+							<lut1></lut1>
+							<asc_sop></asc_sop>
+							<asc_sat></asc_sat>
+							<lut2></lut2>
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-5">
+						<masterclipid>masterclip-1</masterclipid>
+						<name>047-001-002-A-OK.mov</name>
+						<enabled>TRUE</enabled>
+						<duration>2324</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>FALSE</ntsc>
+						</rate>
+						<start>1966</start>
+						<end>2283</end>
+						<in>2007</in>
+						<out>2324</out>
+						<pproTicksIn>21242088000000</pproTicksIn>
+						<pproTicksOut>24597216000000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<file id="file-1"/>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+							<good></good>
+							<originalvideofilename></originalvideofilename>
+							<originalaudiofilename></originalaudiofilename>
+						</logginginfo>
+						<colorinfo>
+							<lut></lut>
+							<lut1></lut1>
+							<asc_sop></asc_sop>
+							<asc_sat></asc_sat>
+							<lut2></lut2>
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<enabled>TRUE</enabled>
+					<locked>FALSE</locked>
+				</track>
+				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="0">
+					<enabled>TRUE</enabled>
+					<locked>TRUE</locked>
+				</track>
+				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1">
+					<clipitem id="clipitem-6">
+						<masterclipid>masterclip-1</masterclipid>
+						<name>047-001-002-A-OK.mov</name>
+						<enabled>TRUE</enabled>
+						<duration>2324</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>FALSE</ntsc>
+						</rate>
+						<start>247</start>
+						<end>478</end>
+						<in>247</in>
+						<out>478</out>
+						<pproTicksIn>2614248000000</pproTicksIn>
+						<pproTicksOut>5059152000000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<file id="file-1"/>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+							<good></good>
+							<originalvideofilename></originalvideofilename>
+							<originalaudiofilename></originalaudiofilename>
+						</logginginfo>
+						<colorinfo>
+							<lut></lut>
+							<lut1></lut1>
+							<asc_sop></asc_sop>
+							<asc_sat></asc_sat>
+							<lut2></lut2>
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-7">
+						<masterclipid>masterclip-1</masterclipid>
+						<name>047-001-002-A-OK.mov</name>
+						<enabled>TRUE</enabled>
+						<duration>1936</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>FALSE</ntsc>
+						</rate>
+						<start>703</start>
+						<end>909</end>
+						<in>585</in>
+						<out>791</out>
+						<pproTicksIn>7440552000000</pproTicksIn>
+						<pproTicksOut>10056916800000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<file id="file-1"/>
+						<filter>
+							<effect>
+								<name>Time Remap</name>
+								<effectid>timeremap</effectid>
+								<effectcategory>motion</effectcategory>
+								<effecttype>motion</effecttype>
+								<mediatype>video</mediatype>
+								<parameter authoringApp="PremierePro">
+									<parameterid>variablespeed</parameterid>
+									<name>variablespeed</name>
+									<valuemin>0</valuemin>
+									<valuemax>1</valuemax>
+									<value>0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>speed</parameterid>
+									<name>speed</name>
+									<valuemin>-100000</valuemin>
+									<valuemax>100000</valuemax>
+									<value>120.041</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>reverse</parameterid>
+									<name>reverse</name>
+									<value>FALSE</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>frameblending</parameterid>
+									<name>frameblending</name>
+									<value>FALSE</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>graphdict</parameterid>
+									<name>graphdict</name>
+									<valuemin>0</valuemin>
+									<valuemax>2324</valuemax>
+									<value>0</value>
+									<keyframe>
+										<when>0</when>
+										<value>0</value>
+										<speedvirtualkf>TRUE</speedvirtualkf>
+										<speedkfstart>TRUE</speedkfstart>
+									</keyframe>
+									<keyframe>
+										<when>585</when>
+										<value>702</value>
+										<speedvirtualkf>TRUE</speedvirtualkf>
+										<speedkfin>TRUE</speedkfin>
+									</keyframe>
+									<keyframe>
+										<when>791</when>
+										<value>949</value>
+										<speedvirtualkf>TRUE</speedvirtualkf>
+										<speedkfout>TRUE</speedkfout>
+									</keyframe>
+									<keyframe>
+										<when>1936</when>
+										<value>2324</value>
+										<speedvirtualkf>TRUE</speedvirtualkf>
+										<speedkfend>TRUE</speedkfend>
+									</keyframe>
+									<interpolation>
+										<name>FCPCurve</name>
+									</interpolation>
+								</parameter>
+							</effect>
+						</filter>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+							<good></good>
+							<originalvideofilename></originalvideofilename>
+							<originalaudiofilename></originalaudiofilename>
+						</logginginfo>
+						<colorinfo>
+							<lut></lut>
+							<lut1></lut1>
+							<asc_sop></asc_sop>
+							<asc_sat></asc_sat>
+							<lut2></lut2>
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-8">
+						<masterclipid>masterclip-1</masterclipid>
+						<name>047-001-002-A-OK.mov</name>
+						<enabled>TRUE</enabled>
+						<duration>2324</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>FALSE</ntsc>
+						</rate>
+						<start>1161</start>
+						<end>1435</end>
+						<in>1202</in>
+						<out>1476</out>
+						<pproTicksIn>12721968000000</pproTicksIn>
+						<pproTicksOut>15621984000000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<file id="file-1"/>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+							<good></good>
+							<originalvideofilename></originalvideofilename>
+							<originalaudiofilename></originalaudiofilename>
+						</logginginfo>
+						<colorinfo>
+							<lut></lut>
+							<lut1></lut1>
+							<asc_sop></asc_sop>
+							<asc_sat></asc_sat>
+							<lut2></lut2>
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-9">
+						<masterclipid>masterclip-1</masterclipid>
+						<name>047-001-002-A-OK.mov</name>
+						<enabled>TRUE</enabled>
+						<duration>2324</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>FALSE</ntsc>
+						</rate>
+						<start>1687</start>
+						<end>1966</end>
+						<in>1728</in>
+						<out>2007</out>
+						<pproTicksIn>18289152000000</pproTicksIn>
+						<pproTicksOut>21242088000000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<file id="file-1"/>
+						<filter>
+							<effect>
+								<name>Basic Motion</name>
+								<effectid>basic</effectid>
+								<effectcategory>motion</effectcategory>
+								<effecttype>motion</effecttype>
+								<mediatype>video</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>scale</parameterid>
+									<name>Scale</name>
+									<valuemin>0</valuemin>
+									<valuemax>1000</valuemax>
+									<value>120</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>rotation</parameterid>
+									<name>Rotation</name>
+									<valuemin>-8640</valuemin>
+									<valuemax>8640</valuemax>
+									<value>0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>center</parameterid>
+									<name>Center</name>
+									<value>
+										<horiz>0</horiz>
+										<vert>0</vert>
+									</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>centerOffset</parameterid>
+									<name>Anchor Point</name>
+									<value>
+										<horiz>0</horiz>
+										<vert>0</vert>
+									</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>antiflicker</parameterid>
+									<name>Anti-flicker Filter</name>
+									<valuemin>0.0</valuemin>
+									<valuemax>1.0</valuemax>
+									<value>0</value>
+								</parameter>
+							</effect>
+						</filter>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+							<good></good>
+							<originalvideofilename></originalvideofilename>
+							<originalaudiofilename></originalaudiofilename>
+						</logginginfo>
+						<colorinfo>
+							<lut></lut>
+							<lut1></lut1>
+							<asc_sop></asc_sop>
+							<asc_sat></asc_sat>
+							<lut2></lut2>
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<enabled>TRUE</enabled>
+					<locked>FALSE</locked>
+				</track>
+				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="0">
+					<clipitem id="clipitem-10">
+						<masterclipid>masterclip-1</masterclipid>
+						<name>047-001-002-A-OK.mov</name>
+						<enabled>TRUE</enabled>
+						<duration>2324</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>FALSE</ntsc>
+						</rate>
+						<start>247</start>
+						<end>478</end>
+						<in>247</in>
+						<out>478</out>
+						<pproTicksIn>2614248000000</pproTicksIn>
+						<pproTicksOut>5059152000000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<file id="file-1"/>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+							<good></good>
+							<originalvideofilename></originalvideofilename>
+							<originalaudiofilename></originalaudiofilename>
+						</logginginfo>
+						<colorinfo>
+							<lut></lut>
+							<lut1></lut1>
+							<asc_sop></asc_sop>
+							<asc_sat></asc_sat>
+							<lut2></lut2>
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-11">
+						<masterclipid>masterclip-1</masterclipid>
+						<name>047-001-002-A-OK.mov</name>
+						<enabled>TRUE</enabled>
+						<duration>2324</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>FALSE</ntsc>
+						</rate>
+						<start>1161</start>
+						<end>1435</end>
+						<in>1202</in>
+						<out>1476</out>
+						<pproTicksIn>12721968000000</pproTicksIn>
+						<pproTicksOut>15621984000000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<file id="file-1"/>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+							<good></good>
+							<originalvideofilename></originalvideofilename>
+							<originalaudiofilename></originalaudiofilename>
+						</logginginfo>
+						<colorinfo>
+							<lut></lut>
+							<lut1></lut1>
+							<asc_sop></asc_sop>
+							<asc_sat></asc_sat>
+							<lut2></lut2>
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<enabled>TRUE</enabled>
+					<locked>FALSE</locked>
+				</track>
+				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1">
+					<clipitem id="clipitem-12">
+						<masterclipid>masterclip-2</masterclipid>
+						<name>Graphic</name>
+						<enabled>TRUE</enabled>
+						<duration>1036800</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>FALSE</ntsc>
+						</rate>
+						<start>247</start>
+						<end>478</end>
+						<in>86400</in>
+						<out>86631</out>
+						<pproTicksIn>914457600000000</pproTicksIn>
+						<pproTicksOut>916902504000000</pproTicksOut>
+						<alphatype>straight</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-2">
+							<name>Graphic</name>
+							<mediaSource>GraphicAndType</mediaSource>
+							<rate>
+								<timebase>30</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<timecode>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>00;00;00;00</string>
+								<frame>0</frame>
+								<displayformat>DF</displayformat>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>30</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+							</media>
+						</file>
+						<filter>
+							<effect>
+								<name>窗户做特效</name>
+								<effectid>GraphicAndType</effectid>
+								<effectcategory>graphic</effectcategory>
+								<effecttype>filter</effecttype>
+								<mediatype>video</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>1</parameterid>
+									<name>Source Text</name>
+									<hash>62dbd637-836d-533d-f2a0-465d00000a7c</hash>
+									<value>aAoAAAAAAAB7ACIAbQBUAGUAeAB0AFAAYQByAGEAbQAiADoAewAiAG0AQQBsAGkAZwBuAG0AZQBuAHQAIgA6ADAALAAiAG0AQgBhAGMAawBGAGkAbABsAEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoANwA1ACwAIgBtAEIAYQBjAGsARgBpAGwAbABTAGkAegBlACIAOgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwACwAIgBtAEgAaQBuAGQAaQBEAGkAZwBpAHQAcwAiADoAZgBhAGwAcwBlACwAIgBtAEkAbgBkAGkAYwAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrACIAOgBmAGEAbABzAGUALAAiAG0ASQBzAE0AYQBzAGsASQBuAHYAZQByAHQAZQBkACIAOgBmAGEAbABzAGUALAAiAG0ASQBzAFYAZQByAHQAaQBjAGEAbABUAGUAeAB0ACIAOgBmAGEAbABzAGUALAAiAG0ATABlAGEAZABpAG4AZwAiADoAMAAsACIAbQBMAGkAZwBhAHQAdQByAGUAcwAiADoAZgBhAGwAcwBlACwAIgBtAEwAaQBuAGUAQwBhAHAAVAB5AHAAZQAiADoAMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAsACIAbQBNAGkAdABlAHIATABpAG0AaQB0ACIAOgAyAC4ANQAsACIAbQBOAHUAbQBTAHQAcgBvAGsAZQBzACIAOgAxACwAIgBtAFIAVABMACIAOgBmAGEAbABzAGUALAAiAG0AUwBoAGEAZABvAHcAQQBuAGcAbABlACIAOgAxADMANQAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALAAiAG0AUwBoAGEAZABvAHcAQwBvAGwAbwByACIAOgA0ADEANAA0ADkANQA5ACwAIgBtAFMAaABhAGQAbwB3AE8AZgBmAHMAZQB0ACIAOgA3ACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAsACIAbQBTAGgAYQBkAG8AdwBTAGkAegBlACIAOgAwACwAIgBtAFMAaABhAGQAbwB3AFYAaQBzAGkAYgBsAGUAIgA6AGYAYQBsAHMAZQAsACIAbQBTAHQAeQBsAGUAUwBoAGUAZQB0ACIAOgB7ACIAbQBBAGQAZABpAHQAaQBvAG4AYQBsAFMAdAByAG8AawBlAEMAbwBsAG8AcgAiADoAWwBdACwAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAVgBpAHMAaQBiAGwAZQAiADoAWwBdACwAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAVwBpAGQAdABoACIAOgBbAF0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAMABdAF0AfQAsACIAbQBCAGEAcwBlAGwAaQBuAGUAUwBoAGkAZgB0ACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAMABdAF0AfQAsACIAbQBGAGEAdQB4AEIAbwBsAGQAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALABmAGEAbABzAGUAXQBdAH0ALAAiAG0ARgBhAHUAeABJAHQAYQBsAGkAYwAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGkAbABsAEMAbwBsAG8AcgAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsADEANgA3ADcANwAyADEANQBdAF0AfQAsACIAbQBGAGkAbABsAE8AdgBlAHIAUwB0AHIAbwBrAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAVgBpAHMAaQBiAGwAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAHQAcgB1AGUAXQBdAH0ALAAiAG0ARgBvAG4AdABOAGEAbQBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAIgBTAFQASABlAGkAdABpAFMAQwAtAEwAaQBnAGgAdAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsADEAMAAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAEMAbwBsAG8AcgAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsADEANgA3ADcANwAyADEANQBdAF0AfQAsACIAbQBTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsADEAXQBdAH0ALAAiAG0AVABlAHgAdAAiADoAIgCXejdiWlB5ckhlIgAsACIAbQBUAHIAYQBjAGsAaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAAwAF0AXQB9ACwAIgBtAFQAcwB1AG0AaQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsADAAXQBdAH0AfQAsACIAbQBUAGEAYgBXAGkAZAB0AGgAIgA6ADQAMAAwACwAIgBtAFcAaQBkAHQAaAAiADoAMAB9ACwAIgBtAFYAZQByAHMAaQBvAG4AIgA6ADEAfQA=</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>2</parameterid>
+									<name>Transform</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>11</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>false</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>3</parameterid>
+									<name>Position</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<value>-91445760000000000,0.5:0.5,0,0,0,0,0,0,5,4,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>4</parameterid>
+									<name>Scale</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>2</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>4000</UpperBound>
+									<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>5</parameterid>
+									<name>Horizontal Scale</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>2</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>4000</UpperBound>
+									<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>6</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,true,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>7</parameterid>
+									<name>Rotation</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>3</ParameterControlType>
+									<LowerBound>-32768</LowerBound>
+									<UpperBound>32767</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>8</parameterid>
+									<name>Opacity</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>2</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>100</UpperBound>
+									<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>9</parameterid>
+									<name>Anchor Point</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<value>-91445760000000000,0:0,0,0,0,0,0,0,5,4,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>10</parameterid>
+									<name></name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>12</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>false</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>11</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>32768</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>12</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>32768</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>13</parameterid>
+									<name>start</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-100</LowerBound>
+									<UpperBound>1000000000</UpperBound>
+									<value>-91445760000000000,5.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>14</parameterid>
+									<name>end</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-100</LowerBound>
+									<UpperBound>1000000000</UpperBound>
+									<value>-91445760000000000,5.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>15</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>16</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>17</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>18</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>19</parameterid>
+									<name>Parent Width</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>2</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>20000</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>20</parameterid>
+									<name>Parent Height</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>2</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>20000</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>21</parameterid>
+									<name>Parent Rotation</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>3</ParameterControlType>
+									<LowerBound>-32768</LowerBound>
+									<UpperBound>32767</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+							</effect>
+						</filter>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+							<good></good>
+							<originalvideofilename></originalvideofilename>
+							<originalaudiofilename></originalaudiofilename>
+						</logginginfo>
+						<colorinfo>
+							<lut></lut>
+							<lut1></lut1>
+							<asc_sop></asc_sop>
+							<asc_sat></asc_sat>
+							<lut2></lut2>
+						</colorinfo>
+						<labels>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-13">
+						<masterclipid>masterclip-2</masterclipid>
+						<name>Graphic</name>
+						<enabled>TRUE</enabled>
+						<duration>1036800</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>FALSE</ntsc>
+						</rate>
+						<start>703</start>
+						<end>909</end>
+						<in>86400</in>
+						<out>86606</out>
+						<pproTicksIn>914457600000000</pproTicksIn>
+						<pproTicksOut>916637904000000</pproTicksOut>
+						<alphatype>straight</alphatype>
+						<file id="file-2"/>
+						<filter>
+							<effect>
+								<name>窗户做特效</name>
+								<effectid>GraphicAndType</effectid>
+								<effectcategory>graphic</effectcategory>
+								<effecttype>filter</effecttype>
+								<mediatype>video</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>1</parameterid>
+									<name>Source Text</name>
+									<hash>62dbd637-836d-533d-f2a0-465d00000a7c</hash>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>2</parameterid>
+									<name>Transform</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>11</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>false</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>3</parameterid>
+									<name>Position</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<value>-91445760000000000,0.5:0.5,0,0,0,0,0,0,5,4,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>4</parameterid>
+									<name>Scale</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>2</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>4000</UpperBound>
+									<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>5</parameterid>
+									<name>Horizontal Scale</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>2</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>4000</UpperBound>
+									<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>6</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,true,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>7</parameterid>
+									<name>Rotation</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>3</ParameterControlType>
+									<LowerBound>-32768</LowerBound>
+									<UpperBound>32767</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>8</parameterid>
+									<name>Opacity</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>2</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>100</UpperBound>
+									<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>9</parameterid>
+									<name>Anchor Point</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<value>-91445760000000000,0:0,0,0,0,0,0,0,5,4,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>10</parameterid>
+									<name></name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>12</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>false</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>11</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>32768</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>12</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>32768</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>13</parameterid>
+									<name>start</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-100</LowerBound>
+									<UpperBound>1000000000</UpperBound>
+									<value>-91445760000000000,5.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>14</parameterid>
+									<name>end</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-100</LowerBound>
+									<UpperBound>1000000000</UpperBound>
+									<value>-91445760000000000,5.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>15</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>16</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>17</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>18</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>19</parameterid>
+									<name>Parent Width</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>2</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>20000</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>20</parameterid>
+									<name>Parent Height</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>2</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>20000</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>21</parameterid>
+									<name>Parent Rotation</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>3</ParameterControlType>
+									<LowerBound>-32768</LowerBound>
+									<UpperBound>32767</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+							</effect>
+						</filter>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+							<good></good>
+							<originalvideofilename></originalvideofilename>
+							<originalaudiofilename></originalaudiofilename>
+						</logginginfo>
+						<colorinfo>
+							<lut></lut>
+							<lut1></lut1>
+							<asc_sop></asc_sop>
+							<asc_sat></asc_sat>
+							<lut2></lut2>
+						</colorinfo>
+						<labels>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-14">
+						<masterclipid>masterclip-3</masterclipid>
+						<name>Graphic</name>
+						<enabled>TRUE</enabled>
+						<duration>1036800</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>FALSE</ntsc>
+						</rate>
+						<start>1161</start>
+						<end>1435</end>
+						<in>86400</in>
+						<out>86674</out>
+						<pproTicksIn>914457600000000</pproTicksIn>
+						<pproTicksOut>917357616000000</pproTicksOut>
+						<alphatype>straight</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-3">
+							<name>Graphic</name>
+							<mediaSource>GraphicAndType</mediaSource>
+							<rate>
+								<timebase>30</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<timecode>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>00;00;00;00</string>
+								<frame>0</frame>
+								<displayformat>DF</displayformat>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>30</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+							</media>
+						</file>
+						<filter>
+							<effect>
+								<name>把床给P掉</name>
+								<effectid>GraphicAndType</effectid>
+								<effectcategory>graphic</effectcategory>
+								<effecttype>filter</effecttype>
+								<mediatype>video</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>1</parameterid>
+									<name>Source Text</name>
+									<hash>2dd41c33-ca46-8ddb-0a30-179f00000a7c</hash>
+									<value>aAoAAAAAAAB7ACIAbQBUAGUAeAB0AFAAYQByAGEAbQAiADoAewAiAG0AQQBsAGkAZwBuAG0AZQBuAHQAIgA6ADAALAAiAG0AQgBhAGMAawBGAGkAbABsAEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoANwA1ACwAIgBtAEIAYQBjAGsARgBpAGwAbABTAGkAegBlACIAOgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwACwAIgBtAEgAaQBuAGQAaQBEAGkAZwBpAHQAcwAiADoAZgBhAGwAcwBlACwAIgBtAEkAbgBkAGkAYwAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrACIAOgBmAGEAbABzAGUALAAiAG0ASQBzAE0AYQBzAGsASQBuAHYAZQByAHQAZQBkACIAOgBmAGEAbABzAGUALAAiAG0ASQBzAFYAZQByAHQAaQBjAGEAbABUAGUAeAB0ACIAOgBmAGEAbABzAGUALAAiAG0ATABlAGEAZABpAG4AZwAiADoAMAAsACIAbQBMAGkAZwBhAHQAdQByAGUAcwAiADoAZgBhAGwAcwBlACwAIgBtAEwAaQBuAGUAQwBhAHAAVAB5AHAAZQAiADoAMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAsACIAbQBNAGkAdABlAHIATABpAG0AaQB0ACIAOgAyAC4ANQAsACIAbQBOAHUAbQBTAHQAcgBvAGsAZQBzACIAOgAxACwAIgBtAFIAVABMACIAOgBmAGEAbABzAGUALAAiAG0AUwBoAGEAZABvAHcAQQBuAGcAbABlACIAOgAxADMANQAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALAAiAG0AUwBoAGEAZABvAHcAQwBvAGwAbwByACIAOgA0ADEANAA0ADkANQA5ACwAIgBtAFMAaABhAGQAbwB3AE8AZgBmAHMAZQB0ACIAOgA3ACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAsACIAbQBTAGgAYQBkAG8AdwBTAGkAegBlACIAOgAwACwAIgBtAFMAaABhAGQAbwB3AFYAaQBzAGkAYgBsAGUAIgA6AGYAYQBsAHMAZQAsACIAbQBTAHQAeQBsAGUAUwBoAGUAZQB0ACIAOgB7ACIAbQBBAGQAZABpAHQAaQBvAG4AYQBsAFMAdAByAG8AawBlAEMAbwBsAG8AcgAiADoAWwBdACwAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAVgBpAHMAaQBiAGwAZQAiADoAWwBdACwAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAVwBpAGQAdABoACIAOgBbAF0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAMABdAF0AfQAsACIAbQBCAGEAcwBlAGwAaQBuAGUAUwBoAGkAZgB0ACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAMABdAF0AfQAsACIAbQBGAGEAdQB4AEIAbwBsAGQAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALABmAGEAbABzAGUAXQBdAH0ALAAiAG0ARgBhAHUAeABJAHQAYQBsAGkAYwAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGkAbABsAEMAbwBsAG8AcgAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsADEANgA3ADcANwAyADEANQBdAF0AfQAsACIAbQBGAGkAbABsAE8AdgBlAHIAUwB0AHIAbwBrAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAVgBpAHMAaQBiAGwAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAHQAcgB1AGUAXQBdAH0ALAAiAG0ARgBvAG4AdABOAGEAbQBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAIgBTAFQASABlAGkAdABpAFMAQwAtAEwAaQBnAGgAdAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsADEAMAAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAEMAbwBsAG8AcgAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsADEANgA3ADcANwAyADEANQBdAF0AfQAsACIAbQBTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsADEAXQBdAH0ALAAiAG0AVABlAHgAdAAiADoAIgCKYope2X5QAIljIgAsACIAbQBUAHIAYQBjAGsAaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAAwAF0AXQB9ACwAIgBtAFQAcwB1AG0AaQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsADAAXQBdAH0AfQAsACIAbQBUAGEAYgBXAGkAZAB0AGgAIgA6ADQAMAAwACwAIgBtAFcAaQBkAHQAaAAiADoAMAB9ACwAIgBtAFYAZQByAHMAaQBvAG4AIgA6ADEAfQA=</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>2</parameterid>
+									<name>Transform</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>11</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>false</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>3</parameterid>
+									<name>Position</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<value>-91445760000000000,0.5:0.5,0,0,0,0,0,0,5,4,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>4</parameterid>
+									<name>Scale</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>2</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>4000</UpperBound>
+									<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>5</parameterid>
+									<name>Horizontal Scale</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>2</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>4000</UpperBound>
+									<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>6</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,true,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>7</parameterid>
+									<name>Rotation</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>3</ParameterControlType>
+									<LowerBound>-32768</LowerBound>
+									<UpperBound>32767</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>8</parameterid>
+									<name>Opacity</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>2</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>100</UpperBound>
+									<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>9</parameterid>
+									<name>Anchor Point</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<value>-91445760000000000,0:0,0,0,0,0,0,0,5,4,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>10</parameterid>
+									<name></name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>12</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>false</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>11</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>32768</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>12</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>32768</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>13</parameterid>
+									<name>start</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-100</LowerBound>
+									<UpperBound>1000000000</UpperBound>
+									<value>-91445760000000000,5.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>14</parameterid>
+									<name>end</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-100</LowerBound>
+									<UpperBound>1000000000</UpperBound>
+									<value>-91445760000000000,5.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>15</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>16</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>17</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>18</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>19</parameterid>
+									<name>Parent Width</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>2</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>20000</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>20</parameterid>
+									<name>Parent Height</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>2</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>20000</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>21</parameterid>
+									<name>Parent Rotation</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>3</ParameterControlType>
+									<LowerBound>-32768</LowerBound>
+									<UpperBound>32767</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+							</effect>
+						</filter>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+							<good></good>
+							<originalvideofilename></originalvideofilename>
+							<originalaudiofilename></originalaudiofilename>
+						</logginginfo>
+						<colorinfo>
+							<lut></lut>
+							<lut1></lut1>
+							<asc_sop></asc_sop>
+							<asc_sat></asc_sat>
+							<lut2></lut2>
+						</colorinfo>
+						<labels>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-15">
+						<masterclipid>masterclip-4</masterclipid>
+						<name>Graphic</name>
+						<enabled>TRUE</enabled>
+						<duration>1036800</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>FALSE</ntsc>
+						</rate>
+						<start>1687</start>
+						<end>1966</end>
+						<in>86400</in>
+						<out>86679</out>
+						<pproTicksIn>914457600000000</pproTicksIn>
+						<pproTicksOut>917410536000000</pproTicksOut>
+						<alphatype>straight</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-4">
+							<name>Graphic</name>
+							<mediaSource>GraphicAndType</mediaSource>
+							<rate>
+								<timebase>30</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<timecode>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>00;00;00;00</string>
+								<frame>0</frame>
+								<displayformat>DF</displayformat>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>30</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+							</media>
+						</file>
+						<filter>
+							<effect>
+								<name>其他特效</name>
+								<effectid>GraphicAndType</effectid>
+								<effectcategory>graphic</effectcategory>
+								<effecttype>filter</effecttype>
+								<mediatype>video</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>1</parameterid>
+									<name>Source Text</name>
+									<hash>5dca05e2-28d7-f254-c6ca-ef8600000a7a</hash>
+									<value>ZgoAAAAAAAB7ACIAbQBUAGUAeAB0AFAAYQByAGEAbQAiADoAewAiAG0AQQBsAGkAZwBuAG0AZQBuAHQAIgA6ADAALAAiAG0AQgBhAGMAawBGAGkAbABsAEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoANwA1ACwAIgBtAEIAYQBjAGsARgBpAGwAbABTAGkAegBlACIAOgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwACwAIgBtAEgAaQBuAGQAaQBEAGkAZwBpAHQAcwAiADoAZgBhAGwAcwBlACwAIgBtAEkAbgBkAGkAYwAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrACIAOgBmAGEAbABzAGUALAAiAG0ASQBzAE0AYQBzAGsASQBuAHYAZQByAHQAZQBkACIAOgBmAGEAbABzAGUALAAiAG0ASQBzAFYAZQByAHQAaQBjAGEAbABUAGUAeAB0ACIAOgBmAGEAbABzAGUALAAiAG0ATABlAGEAZABpAG4AZwAiADoAMAAsACIAbQBMAGkAZwBhAHQAdQByAGUAcwAiADoAZgBhAGwAcwBlACwAIgBtAEwAaQBuAGUAQwBhAHAAVAB5AHAAZQAiADoAMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAsACIAbQBNAGkAdABlAHIATABpAG0AaQB0ACIAOgAyAC4ANQAsACIAbQBOAHUAbQBTAHQAcgBvAGsAZQBzACIAOgAxACwAIgBtAFIAVABMACIAOgBmAGEAbABzAGUALAAiAG0AUwBoAGEAZABvAHcAQQBuAGcAbABlACIAOgAxADMANQAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALAAiAG0AUwBoAGEAZABvAHcAQwBvAGwAbwByACIAOgA0ADEANAA0ADkANQA5ACwAIgBtAFMAaABhAGQAbwB3AE8AZgBmAHMAZQB0ACIAOgA3ACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAsACIAbQBTAGgAYQBkAG8AdwBTAGkAegBlACIAOgAwACwAIgBtAFMAaABhAGQAbwB3AFYAaQBzAGkAYgBsAGUAIgA6AGYAYQBsAHMAZQAsACIAbQBTAHQAeQBsAGUAUwBoAGUAZQB0ACIAOgB7ACIAbQBBAGQAZABpAHQAaQBvAG4AYQBsAFMAdAByAG8AawBlAEMAbwBsAG8AcgAiADoAWwBdACwAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAVgBpAHMAaQBiAGwAZQAiADoAWwBdACwAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAVwBpAGQAdABoACIAOgBbAF0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAMABdAF0AfQAsACIAbQBCAGEAcwBlAGwAaQBuAGUAUwBoAGkAZgB0ACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAMABdAF0AfQAsACIAbQBGAGEAdQB4AEIAbwBsAGQAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALABmAGEAbABzAGUAXQBdAH0ALAAiAG0ARgBhAHUAeABJAHQAYQBsAGkAYwAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGkAbABsAEMAbwBsAG8AcgAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsADEANgA3ADcANwAyADEANQBdAF0AfQAsACIAbQBGAGkAbABsAE8AdgBlAHIAUwB0AHIAbwBrAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAVgBpAHMAaQBiAGwAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAHQAcgB1AGUAXQBdAH0ALAAiAG0ARgBvAG4AdABOAGEAbQBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAIgBTAFQASABlAGkAdABpAFMAQwAtAEwAaQBnAGgAdAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsADEAMAAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAEMAbwBsAG8AcgAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsADEANgA3ADcANwAyADEANQBdAF0AfQAsACIAbQBTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsADEAXQBdAH0ALAAiAG0AVABlAHgAdAAiADoAIgB2UdZOeXJIZSIALAAiAG0AVAByAGEAYwBrAGkAbgBnACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAMABdAF0AfQAsACIAbQBUAHMAdQBtAGkAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAAwAF0AXQB9AH0ALAAiAG0AVABhAGIAVwBpAGQAdABoACIAOgA0ADAAMAAsACIAbQBXAGkAZAB0AGgAIgA6ADAAfQAsACIAbQBWAGUAcgBzAGkAbwBuACIAOgAxAH0A</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>2</parameterid>
+									<name>Transform</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>11</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>false</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>3</parameterid>
+									<name>Position</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<value>-91445760000000000,0.5:0.5,0,0,0,0,0,0,5,4,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>4</parameterid>
+									<name>Scale</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>2</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>4000</UpperBound>
+									<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>5</parameterid>
+									<name>Horizontal Scale</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>2</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>4000</UpperBound>
+									<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>6</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,true,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>7</parameterid>
+									<name>Rotation</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>3</ParameterControlType>
+									<LowerBound>-32768</LowerBound>
+									<UpperBound>32767</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>8</parameterid>
+									<name>Opacity</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>2</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>100</UpperBound>
+									<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>9</parameterid>
+									<name>Anchor Point</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<value>-91445760000000000,0:0,0,0,0,0,0,0,5,4,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>10</parameterid>
+									<name></name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>12</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>false</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>11</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>32768</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>12</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>32768</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>13</parameterid>
+									<name>start</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-100</LowerBound>
+									<UpperBound>1000000000</UpperBound>
+									<value>-91445760000000000,4.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>14</parameterid>
+									<name>end</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-100</LowerBound>
+									<UpperBound>1000000000</UpperBound>
+									<value>-91445760000000000,4.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>15</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>16</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>17</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>18</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,false,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>19</parameterid>
+									<name>Parent Width</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>2</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>20000</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>20</parameterid>
+									<name>Parent Height</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>2</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>20000</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>21</parameterid>
+									<name>Parent Rotation</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>3</ParameterControlType>
+									<LowerBound>-32768</LowerBound>
+									<UpperBound>32767</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+							</effect>
+						</filter>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+							<good></good>
+							<originalvideofilename></originalvideofilename>
+							<originalaudiofilename></originalaudiofilename>
+						</logginginfo>
+						<colorinfo>
+							<lut></lut>
+							<lut1></lut1>
+							<asc_sop></asc_sop>
+							<asc_sat></asc_sat>
+							<lut2></lut2>
+						</colorinfo>
+						<labels>
+						</labels>
+					</clipitem>
+					<enabled>TRUE</enabled>
+					<locked>FALSE</locked>
+				</track>
+				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="0">
+					<enabled>TRUE</enabled>
+					<locked>TRUE</locked>
+				</track>
+			</video>
+			<audio>
+				<numOutputChannels>2</numOutputChannels>
+				<format>
+					<samplecharacteristics>
+						<depth>16</depth>
+						<samplerate>48000</samplerate>
+					</samplecharacteristics>
+				</format>
+				<outputs>
+					<group>
+						<index>1</index>
+						<numchannels>1</numchannels>
+						<downmix>0</downmix>
+						<channel>
+							<index>1</index>
+						</channel>
+					</group>
+					<group>
+						<index>2</index>
+						<numchannels>1</numchannels>
+						<downmix>0</downmix>
+						<channel>
+							<index>2</index>
+						</channel>
+					</group>
+				</outputs>
+				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="0" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+					<enabled>TRUE</enabled>
+					<locked>FALSE</locked>
+					<outputchannelindex>1</outputchannelindex>
+				</track>
+				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="1" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+					<enabled>TRUE</enabled>
+					<locked>FALSE</locked>
+					<outputchannelindex>2</outputchannelindex>
+				</track>
+			</audio>
+		</media>
+		<timecode>
+			<rate>
+				<timebase>24</timebase>
+				<ntsc>FALSE</ntsc>
+			</rate>
+			<string>00:00:00:00</string>
+			<frame>0</frame>
+			<displayformat>NDF</displayformat>
+		</timecode>
+		<labels>
+			<label2>Forest</label2>
+		</labels>
+	</sequence>
+</xmeml>
